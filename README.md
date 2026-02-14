@@ -53,7 +53,7 @@ Traditional supervised learning for summarization relies on human-labeled datase
 ---
 
 ## Implementation Details
-### 1. Supervised Fine-Tuning (SFT)
+### 1. Supervised Fine-Tuning 
 Supervised Fine-Tuning (SFT) is the process of fine-tuning a pre-trained language model on a labeled dataset using supervised learning. It is a critical step in many machine learning pipelines, including Reinforcement Learning from Human Feedback (RLHF), to ensure the model performs well on a specific task before further optimization.
 
 - **Base Model**: `Flan-T5 (google/flan-t5-base)`, a powerful sequence-to-sequence model fine-tuned for a variety of tasks.
