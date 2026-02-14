@@ -263,17 +263,8 @@ After training, evaluate the model to ensure it generates high-quality, human-al
 - **Policy Optimization**:  Improved the quality of responsess using the PPO algorithm, ensuring the outputs are not only coherent but also aligned with human preferences.
 - **Overall Impact**: The final model produces high-quality, human-aligned responsess tailored to custom dataset, demonstrating the effectiveness of the RLHF pipeline.
 
-## Citations
-If you use this code or reference the paper, please cite the following:
 
-```bibtex
-@article{stiennon2020learning,
-  title={Learning to summarize from human feedback},
-  author={Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano},
-  journal={arXiv preprint arXiv:2009.01325},
-  year={2020}
-}
-```
+
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
