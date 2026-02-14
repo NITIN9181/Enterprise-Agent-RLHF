@@ -1,4 +1,4 @@
-# Reinforcement Learning from Human Feedback (RLHF) on Custom Data
+# Enterprise-Agent-RLHF
 
 This project implements Reinforcement Learning from Human Feedback (RLHF) on custom data, replicating the pipeline described in the paper "Learning to Summarize from Human Feedback" by OpenAI. The RLHF process involves three key steps: Supervised Fine-Tuning (SFT), Reward Model Training, and Policy Optimization, enabling the model to generate summaries that align with human preferences.
 
